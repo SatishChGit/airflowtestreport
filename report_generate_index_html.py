@@ -46,7 +46,7 @@ an_item = dict(classname="tests.system.providers.teradata.example_teradata_to_te
 items.append(an_item)
 
 # Create one external form_template html page and read it
-File = open('teradata_report/report_index_template.html', 'r')
+File = open('report_index_template.html', 'r')
 content = File.read()
 File.close()
 
