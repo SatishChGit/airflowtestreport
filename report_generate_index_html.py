@@ -56,7 +56,7 @@ rendered_form = template.render(items=items)
 
 
 # save the txt file in the index.html
-output = open('teradata_report/index.html', 'w')
+output = open('index.html', 'w')
 output.write(rendered_form)
 output.close()
 	
