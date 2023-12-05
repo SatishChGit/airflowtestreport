@@ -4,3 +4,5 @@ tests.system.providers.teradata.example_teradata S 26.263
 tests.system.providers.teradata.example_teradata_to_teradata_transfer S 32.701
 tests.system.providers.teradata.example_teradata S 27.008
 tests.system.providers.teradata.example_teradata_to_teradata_transfer S 34.659
+tests.system.providers.teradata.example_teradata S 26.114
+tests.system.providers.teradata.example_teradata_to_teradata_transfer S 32.693
